@@ -15,6 +15,9 @@ Dramastuff (read)
 
 I've been master server banned for posting this, which I was told wasn't going to happen in a private conversation lol. The salt radiating from this simple plugin is reaching maximum levels, I have been told that the jpxs staff would go delisting servers and crashing them if they got the plugin, which is equally as dumb and salty, the plugin is out there for a game so dead it gets 0 players on a daily basis, why does it have to be a huge situtation, if anything trying to stop players from using it is just dense, it's out there now, players should be able to do as they please with it (because the creator wants them to) and trying to prevent them from using it is just making a bigger salted wound than it needs to be.
 
+(edit: he is crashing my servers)
+
+
 Backstory (can ignore)
 
 The plugin is finally out after years of being gatekept, infamously was responsible for making the actual game be replaced with a hangout server for a year. I thought I would release it on the day free weekend became available as sort of a extra souvenir. The game is literally cracked and the game is free, won't likely get an update, and is currently sitting at a whopping playercount of 15 players *per month* 
