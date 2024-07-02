@@ -20,5 +20,5 @@ I've been master server banned for posting this, which I was told wasn't going t
 Backstory
 
 The plugin is finally out after years of being gatekept, infamously was responsible for making the actual game be replaced with a hangout server for a year. I thought I would release it on the day free weekend became available as sort of a extra souvenir. The game is literally cracked and the game is free, won't likely get an update, and is currently sitting at a whopping playercount of 15 players *per month*  
-As of release I am done with sub rosa, I did everything I wanted to do with it, I made a sucessful server, I made "friends", I made stuff for people, people laughed with me, I'd rather leave with one stale memory than to just play a dead game forever.
 
+Marking the release of this plugin I am done with Sub Rosa, It's not like I have much of a choice, I regret playing the game past 2021, although I will say I did basically everything I wanted for it, I made my own server, I laughed lots, I made people laugh, even as a complete waste of time the game is still atleast fun, and screw you JPXS for placing me in a blacklist with literal pedophiles over a plugin loloolool
