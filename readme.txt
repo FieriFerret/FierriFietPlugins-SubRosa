@@ -11,7 +11,7 @@ How to use
 2. Fix whatever is wrong with it
 3. Run server
 
-Dramastuff (pay attention if you want to use this)
+Dramastuff (pay attention if you want to use this at the time of release)
 
 I've been master server banned for posting this, which I was told wasn't going to happen in a private conversation lol. The salt radiating from this simple plugin is reaching maximum levels, this plugin is not owned by any of the current JPXS staff, nor do they have the right to crash your servers, harass you, or ban you over it. (like they've done to me) This is an official release, not a leak. This version is an older version that only contains a mere 8 lines of code contributed by JPXS staff. We are giving you full permission to use this in any way the GPL-3.0 license allows you to, if the JPXS staff harass you over it, the only way I can send you is Alex Austin himself, which is a 50/50 and likely whatever he does they can bypass. 
 
