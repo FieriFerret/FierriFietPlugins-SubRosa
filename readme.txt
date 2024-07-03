@@ -1,6 +1,6 @@
 By Fierri/Heights
 Released by Cboyjet (with permission)
-~~old version~~
+~~old version (not anymore)--
 
 Updated Version 2.0
 No code by other JPXS staff members is included in this version post to this commit.
