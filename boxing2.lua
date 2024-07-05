@@ -369,6 +369,7 @@ plugin.commands["/superpunch"] = {
             ply.data.superpunch = nil
 			ply:sendMessage("Superpunch disabled.")
 		else
+            ply.data.superpunch = true
             table.insert(superPunchers, man)
 			ply:sendMessage("Superpunch enabled.")
 		end
