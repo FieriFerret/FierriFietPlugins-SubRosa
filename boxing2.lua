@@ -62,11 +62,11 @@ local function newHit(bone, bBody, aBody)
         local CurTbl = Bones[bone]
 
         local DamageMulti = CurTbl[1]
-        local DamagedBoneHP = VicMan[CurTbl[2]]
+        local DamagedHP = VicMan[CurTbl[2]] - math.min( AttackMan.data.BoxingData.MaxDMG, (aBody.vel:dist(bBody.vel) * DamageMulti) )
         local BoneName = CurTbl[3]
         local VelMulti = (CurTbl[4] or 2.75) * AttackMan.data.BoxingData.KBMulti
 
-        VicMan[CurTbl[2]] = DamagedBoneHP - math.min( AttackMan.data.BoxingData.MaxDMG, (aBody.vel:dist(bBody.vel) * DamageMulti) )
+        VicMan[CurTbl[2]] = DamagedHP
 
         aBody.vel:add( bBody.vel * VelMulti )
 
@@ -86,7 +86,7 @@ local function newHit(bone, bBody, aBody)
 
         if AttackMan.player and VicMan.player and VicMan.player.data.damageIndicator and AttackMan.player.data.damageIndicator then
             if DamageMulti ~= 0 then
-                AttackMan.player:sendMessage( string.format("%s's %s is now at %s / 100", VicMan.player.name, BoneName, DamagedBoneHP) )
+                AttackMan.player:sendMessage( string.format("%s's %s is now at %s / 100", VicMan.player.name, BoneName, DamagedHP) )
             else
                 AttackMan.player:sendMessage( string.format("You hit %s's %s. No damage.", VicMan.player.name, BoneName) )
             end
@@ -369,7 +369,7 @@ plugin.commands["/superpunch"] = {
             ply.data.superpunch = nil
 			ply:sendMessage("Superpunch disabled.")
 		else
-            ply.data.superpunch = true
+            table.insert(superPunchers, man)
 			ply:sendMessage("Superpunch enabled.")
 		end
 	end,
