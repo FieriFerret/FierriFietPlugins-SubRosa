@@ -3,7 +3,7 @@ Released by Cboyjet (with permission)
 ~~old version (not anymore)--
 
 Updated Version 2.0
-No code by other JPXS staff members is included in this version post to this commit.
+No code by other JPXS staff members is included in this version post to commit c727e52
 
 This plugin uses the GPL-3.0 license
 https://www.gnu.org/licenses/gpl-3.0.en.html
