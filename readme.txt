@@ -3,7 +3,7 @@ Released by Cboyjet (with permission)
 ~~old version (not anymore)--
 
 Updated Version 2.0
-No code by other JPXS staff members is included in this version post to this commit.
+No code by other JPXS staff members is included in this version post to commit c727e52
 
 This plugin uses the GPL-3.0 license
 https://www.gnu.org/licenses/gpl-3.0.en.html
@@ -13,14 +13,5 @@ How to use
 2. Fix whatever is wrong with it
 3. Run server
 
-Dramastuff (pay attention if you want to use this at the time of release)
-
-I've been master server banned for posting this, which I was told wasn't going to happen in a private conversation lol. The salt radiating from this simple plugin is reaching maximum levels, this plugin is not owned by any of the current JPXS staff, nor do they have the right to crash your servers, harass you, or ban you over it. (like they've done to me) This is an official release, not a leak. We are giving you full permission to use this in any way the GPL-3.0 license allows you to, if the JPXS staff harass you over it, the only way I can send you is Alex Austin himself, which is a 50/50 and likely whatever he does they can bypass. 
-
-
-
-Backstory
-
-The plugin is finally out after years of being gatekept, infamously was responsible for making the actual game be replaced with a hangout server for a year. I thought I would release it on the day free weekend became available as sort of a extra souvenir. The game is literally cracked and the game is free, won't likely get an update, and is currently sitting at a whopping playercount of 15 players *per month*  
-
-Marking the release of this plugin I am done with Sub Rosa, It's not like I have much of a choice, I regret playing the game past 2021, although I will say I did basically everything I wanted for it, I made my own server, I laughed lots, I made people laugh, even as a complete waste of time the game is still atleast fun, and screw you JPXS for placing me in a blacklist with literal pedophiles over a plugin loloolool
+(Read if you want to use as of june 2024)
+There's a good chance you will be banned and your servers crashed by JPXS for using this, It might calm down overtime but I don't know, do not attempt to contact me if you are from the Sub Rosa community. 
